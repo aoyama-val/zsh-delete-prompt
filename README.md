@@ -14,3 +14,7 @@ Just `source` the file, and bind to any key you like.
 source <path/to/zsh-delete-prompt.zsh>
 bindkey "<any-key>" delete-prompt
 ```
+
+## Similar works
+
+- [zsh-undollar](https://github.com/zpm-zsh/undollar)
